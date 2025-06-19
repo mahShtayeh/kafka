@@ -3,5 +3,4 @@ spring:
     name: kafka
 
   kafka:
-    bootstrap-servers:
-      - localhost:9092
+    bootstrap-servers: localhost:9092
